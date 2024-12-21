@@ -24,7 +24,7 @@ A Flutter application that fetches and displays jokes. This app demonstrates the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/app_jokes.git
+   git clone https://github.com/mayu-pakkiyarajah/app_jokes.git
    cd app_jokes
 
 ### Project structure
